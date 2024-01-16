@@ -1,5 +1,5 @@
-# Huston_Portfolio
-Ben Huston's Data Science portfolio
+# Ben Huston's Data Science Portfolio
+Description here
 
 # Project 1: Predicting NBA Players 2K21 Ratings
 This repository contains files associated with the "Predicting NBA Players’ 2K21 Ratings" project worked on by Ben Huston and Eli Standard. This project was made as part of a 6 week long open ended project for an introductory Data Science course at UVM.
