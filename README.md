@@ -10,7 +10,15 @@ Went through the full data science lifecycle with the goal of creating a multipl
 
 ![](/Images/ActualVsPredicted.png)
 
-# [Project 2: 2019 Spending's Impact on USA Olympic Performance](https://github.com/Hustonb/2019-Spending-s-Impact-on-USA-Olympic-Performance)
+# [Project 2: SQL Competency and Visualization of Sales Data.](https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data)
+The information presented can be used to study the spending of the USOPC and specific NGBs in 2019 and team USA's subsequent 2020 Olympic performance. The financial report (top half) and performance report (bottom half) give insight into what sort of spending led to success at the games. Cumulative values are shown by default, but use the NGB selector to view data about specific programs.
+<br>
+The end result can be viewed here: [[https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/USOPC5/USOPC](https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes)]
+![](/Images/USOPC.png)
+
+
+
+# [Project 3: 2019 Spending's Impact on USA Olympic Performance](https://github.com/Hustonb/2019-Spending-s-Impact-on-USA-Olympic-Performance)
 The information presented can be used to study the spending of the USOPC and specific NGBs in 2019 and team USA's subsequent 2020 Olympic performance. The financial report (top half) and performance report (bottom half) give insight into what sort of spending led to success at the games. Cumulative values are shown by default, but use the NGB selector to view data about specific programs.
 <br>
 The end result can be viewed here: [https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/USOPC5/USOPC](https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/USOPC5/USOPC)
