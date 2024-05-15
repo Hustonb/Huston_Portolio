@@ -15,7 +15,7 @@ The information presented can be used to study the spending of the USOPC and spe
 <br>
 The end result can be viewed here:
 [https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes](https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes)
-![](/Images/SalesDBSchema.png | width="100")
+![](/Images/SalesDBSchema.png)
 
 
 
