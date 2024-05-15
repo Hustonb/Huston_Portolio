@@ -21,10 +21,9 @@ The end result can be viewed here:
 [https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes](https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes)
 ![](/Images/SalesDBSchema.png)
 
+# [Project 3: Data Cleaning and Pipeline Creation, NBA Play-by-Play Data.](https://github.com/Hustonb/Data-Cleaning-and-Pipeline-Creation-NBA-Play-by-Play-Data)
+This project showcases my proficiency in data cleaning and ETL pipeline creation using Python: specifically the Pandas library.
 
+The motivating question behind this project was what are the most efficient types of shots in basketball. The secondary question/goal was to build a profile of the shots (whether it be the shot distance, shot type, etc.) that teams in the NBA take. This is first and foremost a data cleaning project, and the majority of the work will be done preparing the data to answer these questions; with a secondary focus on exploring the questions themselves (which have already been researched in depth).
+![](/Images/expectedpointsjumpshots.png)
 
-# [Project 3: 2019 Spending's Impact on USA Olympic Performance](https://github.com/Hustonb/2019-Spending-s-Impact-on-USA-Olympic-Performance)
-The information presented can be used to study the spending of the USOPC and specific NGBs in 2019 and team USA's subsequent 2020 Olympic performance. The financial report (top half) and performance report (bottom half) give insight into what sort of spending led to success at the games. Cumulative values are shown by default, but use the NGB selector to view data about specific programs.
-<br>
-The end result can be viewed here: [https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/USOPC5/USOPC](https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/USOPC5/USOPC)
-![](/Images/USOPC.png)
