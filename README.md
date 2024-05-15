@@ -1,7 +1,12 @@
 # [Project 1: Predicting NBA Players 2K21 Ratings](https://github.com/Hustonb/Predicting-NBA-Players-2K21-Ratings)
-This repository contains files associated with the "Predicting NBA Players’ 2K21 Ratings" project worked on by Ben Huston and Eli Standard. This project was made as part of a 6 week long open ended project for a graduate Data Science course at UVM.
-
-The purpose of the included "Predicting NBA Player's 2K21 Ratings" writeup was to share our findings; and act as an overview of the technical details that went into reaching those conclusions. Note that only the "Predicting NBA Player's 2K21 Ratings" PDF was intended as a finished product. The other files are included as a zip file which is intended to show (via a Jupyter notebook) the step by step process we followed; and allow anyone it interests to run this code for themself. Note yet again that this Jupyter notebook (IPYNB file) isn't well polished and just serves as a demonstration of  the methods we used. If you want to look over this Jupyter Notebook, extract the zip to a folder and then run the IPYNB file. 
+Went through the full data science lifecycle with the goal of creating a multiple linear reression model which predicts NBA players NBA 2k21 ratings given their real NBA statistics. 
+1. Scraped and combined data from multiple messy sources, using Python's Beautiful Soup library. 
+2. Performed exensive cleaning, leveraging methods ranging from more common to advanced regular expressions.
+3. Created numerous visualizations to help draw insights from the data, leveraging Matplotlib, seaborn, and NumPy.
+4. Trained multiple linear regression models to peform necessary prediction.
+5. Evaluated models using R-squared value, validation error, and residual plots.
+6. Leveraged permutation testing and hypothesis testing to evaluate feature importance.
+7. Documented conclusions and future work to be done. 
 
 ![](/Images/ActualVsPredicted.png)
 
