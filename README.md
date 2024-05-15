@@ -11,8 +11,12 @@ Went through the full data science lifecycle with the goal of creating a multipl
 ![](/Images/ActualVsPredicted.png)
 
 # [Project 2: SQL Competency and Visualization of Sales Data.](https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data)
-The information presented can be used to study the spending of the USOPC and specific NGBs in 2019 and team USA's subsequent 2020 Olympic performance. The financial report (top half) and performance report (bottom half) give insight into what sort of spending led to success at the games. Cumulative values are shown by default, but use the NGB selector to view data about specific programs.
-<br>
+This project showcases my proficiency in SQL for database design and exploratory data analysis, as well as my data visualization skills in Tableau.
+1. Designed database schema to fit customer needs: SalesDBSchema.png
+2. Generated sample data using AI tools to populate the Orders, Customers, and Storage tables (Product table records were provided by customer).
+3. Created SQL database in MySQL, and inserted records: PopulateTables.sql
+4. Performed EDA in SQL to demonstrate SQL proficiency and gain insight into customer's questions: AllEDA.sql
+5. Created Tableau dashboard to visualize KPIs and trends:
 The end result can be viewed here:
 [https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes](https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes)
 ![](/Images/SalesDBSchema.png)
