@@ -17,9 +17,7 @@ This project showcases my proficiency in SQL for database design and exploratory
 3. Created SQL database in MySQL, and inserted records.
 4. Performed EDA in SQL to demonstrate SQL proficiency and gain insight into customer's questions.
 5. Created Tableau dashboard to visualize KPIs and trend.
-
-The end result can be viewed here:
-[https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes](https://public.tableau.com/app/profile/benedict.robert.huston1540/viz/SalesDashboard_17137287157470/Orders?publish=yes)
+   
 ![](/Images/SalesDBSchema.png)
 
 # [Project 3: Data Cleaning and Pipeline Creation, NBA Play-by-Play Data.](https://github.com/Hustonb/Data-Cleaning-and-Pipeline-Creation-NBA-Play-by-Play-Data)
