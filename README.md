@@ -11,7 +11,7 @@ Went through the full data science lifecycle with the goal of creating a multipl
 ![](/Images/ActualVsPredicted.png)
 
 # [Project 2: SQL Competency and Visualization of Sales Data.](https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data)
-This project showcases my proficiency in SQL for database, exploratory data analysis abilities, and my data visualization skills in Tableau.
+This project showcases my proficiency in SQL for database design, exploratory data analysis abilities, and my data visualization skills in Tableau.
 1. Designed database schema to fit customer needs.
 2. Generated sample data using AI tools to populate the Orders, Customers, and Storage tables (Product table records were provided by customer).
 3. Created SQL database in MySQL, and inserted records.
