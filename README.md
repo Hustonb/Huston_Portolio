@@ -1,5 +1,5 @@
 # [Project 1: Predicting NBA Players 2K21 Ratings](https://github.com/Hustonb/Predicting-NBA-Players-2K21-Ratings)
-Went through the full data science lifecycle with the goal of creating a multiple linear regression model which predicts NBA players NBA 2k ratings given their real NBA statistics. 
+Went through the full data science lifecycle with the goal of creating a multiple linear regression model which predicts NBA players NBA 2k ratings given their real statistics. 
 1. Scraped and combined data from multiple messy sources, using Python's Beautiful Soup library. 
 2. Performed extensive cleaning, leveraging methods ranging from more common to advanced regular expressions.
 3. Created numerous visualizations to help draw insights from the data, leveraging Matplotlib, seaborn, and NumPy.
