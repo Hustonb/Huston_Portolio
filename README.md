@@ -8,7 +8,7 @@ Investigated health research question using real-world survey data; preprocessin
 5. Investigated research question using odds ratios, confidence intervals, and statistically significant associations.
 6. Built reproducible report for presentation of findings using Quarto.
 
-![](/Images/LogisticRegression.png)
+![](/Images/logisticregression.png)
 
 # [Project 2: Predicting NBA Players 2K21 Ratings](https://github.com/Hustonb/Predicting-NBA-Players-2K21-Ratings)
 Went through the full data science lifecycle with the goal of creating a multiple linear regression model which predicts NBA players NBA 2k ratings given their real statistics. 
