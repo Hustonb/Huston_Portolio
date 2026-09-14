@@ -1,5 +1,12 @@
 # [Project 1: Mental Health Treatment Analysis](https://github.com/Hustonb/mental-health-treatment-analysis)
-hi
+Investigated health research question using real-world survey data; preprocessing data and performing statistical analysis in R.
+
+1. Defined clinical research question.
+2. Imported real-world survey data into R. Performed necessary preprocessing, including: basic data cleaning, addressing missingness and invalid values, and feature construction.
+3. Explored data using descriptive statistics and visualizations built with ggplot2.
+4. Verified model conditions and fit univariable and multivariable logistic regression models.
+5. Investigated research question using odds ratios, confidence intervals, and statistically significant associations.
+6. Built reproducible report for presentation of findings using Quarto.
 
 ![](/Images/LogisticRegression.png)
 
