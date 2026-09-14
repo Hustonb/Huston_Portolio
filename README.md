@@ -22,7 +22,7 @@ Went through the full data science lifecycle with the goal of creating a multipl
 
 ![](/Images/ActualVsPredicted.png)
 
-# [Project 3: SQL Competency and Visualization of Sales Data.](https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data)
+# [Project 3: SQL Competency and Visualization of Sales Data](https://github.com/Hustonb/SQL-Competency-and-Visualization-Sales-Data)
 This project showcases my proficiency in SQL for database design, exploratory data analysis abilities, and my data visualization skills in Tableau (most of my expertise are in Power BI, but I don't want to pay for a personal license).
 1. Designed database schema to fit customer needs.
 2. Generated sample data using AI tools to populate the Orders, Customers, and Storage tables (Product table records were provided by customer).
@@ -32,7 +32,7 @@ This project showcases my proficiency in SQL for database design, exploratory da
    
 ![](/Images/SalesDBSchema.png)
 
-# [Project 4: Data Cleaning and Pipeline Creation, NBA Play-by-Play Data.](https://github.com/Hustonb/Data-Cleaning-and-Pipeline-Creation-NBA-Play-by-Play-Data)
+# [Project 4: Data Cleaning and Pipeline Creation, NBA Play-by-Play Data](https://github.com/Hustonb/Data-Cleaning-and-Pipeline-Creation-NBA-Play-by-Play-Data)
 This project showcases my proficiency in data cleaning and ETL pipeline creation using Python: specifically the Pandas library.
 
 The motivating question behind this project was what are the most efficient types of shots in basketball. The secondary question/goal was to build a profile of the shots (whether it be the shot distance, shot type, etc.) that teams in the NBA take. This is first and foremost a data cleaning project, and the majority of the work will be done preparing the data to answer these questions; with a secondary focus on exploring the questions themselves (which have already been researched in depth).
