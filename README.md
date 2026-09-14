@@ -1,4 +1,4 @@
-# [Project 1: Associations Between Demographic and Workplace Characteristics and Treatment Seeking Behavior for Mental Health Issues in Tech Workplaces)
+# [Project 1: Mental Health Treatment Analysis](https://github.com/Hustonb/mental-health-treatment-analysis)
 hi
 
 ![](/Images/LogisticRegression.png)
